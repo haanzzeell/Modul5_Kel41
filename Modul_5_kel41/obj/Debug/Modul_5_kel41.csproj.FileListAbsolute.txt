@@ -1,0 +1,7 @@
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\bin\Debug\Modul_5_kel41.exe.config
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\bin\Debug\Modul_5_kel41.exe
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\bin\Debug\Modul_5_kel41.pdb
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\obj\Debug\Modul_5_kel41.csprojAssemblyReference.cache
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\obj\Debug\Modul_5_kel41.csproj.CoreCompileInputs.cache
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\obj\Debug\Modul_5_kel41.exe
+D:\MATER KULIAH\PRAKTIKUM DKP\Modul5_Kel41\Modul_5_kel41\obj\Debug\Modul_5_kel41.pdb
